@@ -1,0 +1,4 @@
+﻿  Test.cpp
+C:\Users\Braxton\source\repos\Exam 2 Code\Exam 2 Code\Character.h(12): warning C4091: 'static ': ignored on left of 'Character::CharacterState' when no variable is declared
+C:\Users\Braxton\source\repos\Exam 2 Code\Exam 2 Code\Test.cpp(150): warning C4715: 'changePosition': not all control paths return a value
+  Exam 2 Code.vcxproj -> C:\Users\Braxton\source\repos\Exam 2 Code\Debug\Exam 2 Code.exe
